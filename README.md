@@ -1,2 +1,2 @@
 # Flippy-Knife
-Replica of flippy knife
+This game is basically the replica of flippy knife game.
